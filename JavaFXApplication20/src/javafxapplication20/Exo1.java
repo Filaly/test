@@ -7,7 +7,7 @@ package javafxapplication20;
 
 /**
  *AAAAAAAAAAAa
- * @author PC 3mira
+ * @authorAAAAA
  */
 public class Exo1 {
     
